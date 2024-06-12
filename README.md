@@ -23,6 +23,7 @@ addon | version | maintainers | summary
 --- | --- | --- | ---
 [hr_attendance_calendar_view](hr_attendance_calendar_view/) | 17.0.1.0.0 |  | This module adds the calendar view as an option to display attendance
 [hr_attendance_ip_check](hr_attendance_ip_check/) | 17.0.1.0.0 |  | Allow attendance check in from specified ip networks only.
+[hr_employee_attendance_report](hr_employee_attendance_report/) | 17.0.1.0.0 |  | Attendance and leave report.
 
 [//]: # (end addons)
 

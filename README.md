@@ -17,7 +17,11 @@ TODO: add repo description.
 
 [//]: # (addons)
 
-This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[hr_attendance_ip_check](hr_attendance_ip_check/) | 17.0.1.0.0 |  | Allow attendance check in from specified ip networks only.
 
 [//]: # (end addons)
 
